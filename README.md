@@ -61,8 +61,8 @@ All font imports are via CDN (internet required for fonts).
 | Plan | Monthly | Setup |
 |------|---------|-------|
 | Starter | **$100/mo** | $500 |
-| Growth | $297/mo | $500 |
-| Enterprise | $697/mo | $1,000 |
+| Growth | $297/mo | $1,000 |
+| Enterprise | $697/mo | $2,000 |
 
 ## 📡 Channels Supported
 - 💬 WhatsApp (Business API)
